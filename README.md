@@ -135,7 +135,7 @@
       </div>
       <div class="col-right">
         <h1 class="section-title">About <span>me</span></h1>
-        <h2>Front End Developer</h2>
+        <h2>Siswa Biasa</h2>
         <p>Hanya siswa biasa yang ingin mempelajari pemgrograman dan cyber security dari sekolah menengah kejuruan dengan mempelajari bahasa pemgrograman dasar dan sebagainya.</p>
         <a href="#" class="cta">Download Resume</a>
       </div>
